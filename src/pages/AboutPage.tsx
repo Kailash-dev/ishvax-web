@@ -87,13 +87,13 @@ export function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <span className="inline-block text-brand-400 text-sm font-semibold tracking-widest uppercase mb-4">
-              Leadership
+              Our Team
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-              Meet Our Team
+              Meet the People Behind IshvaX
             </h2>
             <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-              Experienced leaders driving innovation and excellence at IshvaX Technologies.
+              Leadership and engineering talent driving innovation and excellence at IshvaX Technologies.
             </p>
           </div>
           <Leadership />

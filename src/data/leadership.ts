@@ -8,11 +8,11 @@ export const LEADERSHIP = [
     initials: 'KK',
   },
   {
-    id: 'rajni',
-    name: 'Rajni Kumar',
-    role: 'Partner',
-    bio: 'Strategic partner bringing deep expertise in technology leadership and business development to IshvaX.',
+    id: 'kailash',
+    name: 'Kailash Gayari',
+    role: 'Senior Developer',
+    bio: 'Full-stack engineer specializing in scalable web platforms, mobile applications, and cloud-native architectures that power real-world products.',
     linkedin: '#',
-    initials: 'RK',
+    initials: 'KG',
   },
 ] as const
